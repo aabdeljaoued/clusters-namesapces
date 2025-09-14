@@ -1,0 +1,11 @@
+# --- doc 1
+clusterName: oc002i000001
+server: https://kubernetes.default.svc
+namespace: ns002i000001
+---
+# --- doc 2
+clusterName: a
+server: https://kubernetes.default.svc
+namespace: ns002i000002
+---
+
